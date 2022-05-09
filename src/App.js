@@ -1,11 +1,11 @@
-import Home from './Components/Home';
+import Multiform from './Components/MultiForm/Multiform';
 import './index.css';
 
 function App() {
   return (
 
     <div className="App">
-      <Home />
+      <Multiform />
     </div>
   );
 }
